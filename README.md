@@ -1,4 +1,4 @@
-# Cloud Computing with DevOps Practical
+# Cloud Computing with DevOps Practical
 
 ## Students Information
 
@@ -7,23 +7,23 @@
 | Patel Prinshy | 202504104610103 | Set B |
 | Modi Chirag | 202504104610141 | Set A |
 
----
+--------------------------------------------------------------------------------------------
 
 ## Logos
 
 ### University: UTU
-![UTU Logo](images/UTU.png)
+![UTU Logo](images/UTU.png =200x200)
 
 ### Department: SRIMCA
-![SRIMCA Logo](images/SRIMCA.png)
+![SRIMCA Logo](images/SRIMCA.png =200x200)
 
----
+--------------------------------------------------------------------------------------------
 
 ## Subject
 
 Cloud Computing with DevOps
 
----
+--------------------------------------------------------------------------------------------
 
 ## Practical Overview
 
@@ -36,7 +36,7 @@ It includes:
 - DevOps practices
 - Documentation with screenshots
 
----
+--------------------------------------------------------------------------------------------
 
 ## Notes
 
