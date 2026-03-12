@@ -12,10 +12,10 @@
 ## Logos
 
 ### University: UTU
-![UTU Logo](images/UTU.png =150x150)
+![UTU Logo](images/UTU.png)
 
 ### Department: SRIMCA
-![SRIMCA Logo](images/SRIMCA.png =150x150)
+![SRIMCA Logo](images/SRIMCA.png)
 
 --------------------------------------------------------------------------------------------
 
